@@ -28,10 +28,12 @@ Excited to introduce my latest project, Blog Generation with Llama 2! This proje
 
 ## Workflow
 
-1. **Input Prompt**: Provide a prompt or topic idea for the blog post generation.
-2. **Llama 2 Processing**: Llama 2 processes the input prompt and generates a coherent blog post based on the provided context.
-3. **Content Optimization**: Apply optimization techniques to ensure the generated blog post is SEO-friendly, readable, and engaging.
-4. **Review and Refinement**: Review the generated blog post, make any necessary edits or adjustments, and publish the final version.
+1. **Input Prompt**: Users provide a topic or prompt for the blog post generation.
+2. **Field Selection**: Users choose the field or category relevant to the topic from a predefined list or provide their own custom field.
+3. **Word Count Selection**: Users specify the desired number of words for the generated blog post, ensuring the content meets their requirements.
+4. **Llama 2 Processing**: Llama 2 processes the input prompt along with the selected field and word count parameters to generate a coherent blog post tailored to the specified criteria.
+5. **Content Optimization**: Apply optimization techniques to ensure the generated blog post is SEO-friendly, readable, and engaging.
+6. **Review and Refinement**: Users review the generated blog post, make any necessary edits or adjustments, and publish the final version.
 
 ## Implementation Details
 
@@ -42,9 +44,10 @@ Excited to introduce my latest project, Blog Generation with Llama 2! This proje
 ## Usage
 
 1. Input your blog post prompt or topic idea.
-2. Configure customization options if desired (e.g., tone, style).
-3. Generate the blog post and review the output.
-4. Make any necessary refinements and publish the finalized blog post.
+2. Choose the field or category relevant to the topic.
+3. Specify the desired number of words for the generated blog post.
+4. Generate the blog post and review the output.
+5. Make any necessary refinements and publish the finalized blog post.
 
 ## Installation
 
